@@ -1,0 +1,41 @@
+body,
+h1 {
+    margin: 0;
+    background-color: rgb(179, 194, 194);
+    font-family: sans-serif;
+}
+
+img {
+    width: 350px;
+    display: inline-block;
+ }
+
+main,header,footer {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    width: 33%;
+    padding: 0;
+    margin: 0;
+    text-align: center
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0;
+    text-align: left
+}
+
+#contacts {
+    text-align: center;
+}
+
+#img {
+    height: 5vh;
+}
