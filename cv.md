@@ -48,17 +48,3 @@ i--;
 }
 },
 ```
-
-#### Work experience: Nothing yet…
-
-#### Education and courses:
-
-- front-end developer course (stage 0, stage 1) RSSchool
-- JS basics course Udemi
-- CSS, HTML basics courses Yandex
-- JavaScript https://learn.javascript.ru/
-
-#### Language:
-
-- English A2
-- Russian
