@@ -1,17 +1,27 @@
-body,
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    background-color: rgb(179, 194, 194);
+}
+
 h1 {
     margin: 0;
-    background-color: rgb(179, 194, 194);
     font-family: sans-serif;
 }
 
 img {
     width: 350px;
     display: inline-block;
- }
+}
 
-main,header,footer {
+main,
+header,
+footer {
     text-align: center;
+    margin: 0 auto;
 }
 
 table {
@@ -21,7 +31,7 @@ table {
 th {
     width: 33%;
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     text-align: center
 }
 
@@ -33,7 +43,10 @@ td {
 }
 
 #contacts {
-    text-align: center;
+    margin: 0 auto;
+    list-style-type: none;
+
+
 }
 
 #img {
